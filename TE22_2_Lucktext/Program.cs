@@ -1,4 +1,3 @@
-﻿
-// Hello World GOTY edition
+﻿// Hello World GOTY edition
 
 Console.WriteLine("Hello, World!");
